@@ -1,3 +1,7 @@
-"# odin-recipes" 
-#Odin beginners tutorial 
-#project still in progress 
+# The Odin Project Web Development
+
+## Project: Basic Recipe site
+
+### Goal: ###
+* Basic styling site
+* links and image elements 
